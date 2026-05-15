@@ -1,0 +1,2 @@
+Resumen
+OPENPOS es un sistema completo de punto de venta (POS) para terminal, construido con TypeScript/React, diseñado para operaciones minoristas modernas con características avanzadas como impresión térmica, facturación CFDI y programas de fidelidad.
